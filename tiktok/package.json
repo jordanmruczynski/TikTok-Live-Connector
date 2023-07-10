@@ -1,0 +1,19 @@
+{
+  "name": "vc-tiktok",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@xct007/tiktok-scraper": "^0.0.1",
+    "axios": "^1.1.3",
+    "express": "^4.18.2",
+    "tiktok-app-api": "^1.4.1",
+    "tiktok-live-connector": "^1.0.2"
+  }
+}
