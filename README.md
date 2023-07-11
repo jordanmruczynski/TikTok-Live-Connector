@@ -1,7 +1,7 @@
 # TikTok-Live-Connector
 Simple Node.js Bot RestfulAPI to get TikTok Live data and events (gifts, messages, likes, chat etc.) Bot can be managed via minecraft spigot plugin.
 
-![image](https://github.com/jordanmruczynski/TikTok-Live-Connector/assets/50798031/5aff6cb0-2871-4988-a187-ac519da5fcea)
+![Zrzut ekranu 2023-07-11 o 23 36 23](https://github.com/jordanmruczynski/TikTok-Live-Connector/assets/50798031/5b4a194b-a452-4af7-a1bb-8d0445755182)
 
 **NOTE:** TikTok Live Connector / McTiktok is not an any official API.
 
@@ -16,7 +16,7 @@ Simple Node.js Bot RestfulAPI to get TikTok Live data and events (gifts, message
 
 ## Minecraft Plugin (Java, Spigot 1.19.2)
 
-![image](https://github.com/jordanmruczynski/TikTok-Live-Connector/assets/50798031/c8085366-28f0-44f9-af34-7fc59cec5d56)
+![Zrzut ekranu 2023-07-11 o 22 22 38](https://github.com/jordanmruczynski/TikTok-Live-Connector/assets/50798031/afb70840-00b2-4c6d-8090-025307ca8584)
 
 ## Getting started
 
