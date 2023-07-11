@@ -1,0 +1,14 @@
+name: McTiktok
+version: '${project.version}'
+main: pl.jordanmruczynski.mctiktok.McTiktok
+api-version: 1.19
+authors: [ Jordan "Jordii" Mruczynski (jordanmruczynski#7622)]
+description: An advanced plugin for tiktok gifts action.
+depend:
+  - PlaceholderAPI
+commands:
+  mctiktok:
+    aliases:
+      - tiktok
+      - tt
+

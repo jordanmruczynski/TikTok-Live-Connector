@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "material": "DIAMOND_SWORD",
+      "amount": 1,
+      "damage": 0,
+      "enchantments": {
+        "DAMAGE_ALL": 2,
+        "DURABILITY": 1
+      },
+      "displayName": "Sword of Destruction"
+    },
+    {
+      "material": "IRON_HELMET",
+      "amount": 1,
+      "damage": 0,
+      "enchantments": {
+        "DAMAGE_ALL": 2,
+        "DURABILITY": 1
+      },
+      "displayName": "Sword of something idk what yet"
+    }
+  ]
+}
