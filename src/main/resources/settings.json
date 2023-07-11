@@ -1,0 +1,5 @@
+{
+  "_comment": "Bot host address and port, NOT your minecraft server. You need host JS bot yourself or buy access from the author. ",
+  "serverAddress": "localhost",
+  "serverPort": 8080
+}

@@ -1,0 +1,6 @@
+{
+  "_comment": "Set actions here from 1 to 16 or your own command executed by console. Parameter {player} is replaced by player name.",
+  "5655": "say hi {player}",
+  "5211": 1,
+  "4412": 7
+}
